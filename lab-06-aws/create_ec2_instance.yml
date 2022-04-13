@@ -1,5 +1,5 @@
 ---
-- name: Create an EC2 instance
+- name: Create an EC2 inst
   hosts: localhost
   gather_facts: False
   tasks:
